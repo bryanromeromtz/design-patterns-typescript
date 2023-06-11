@@ -11,7 +11,7 @@
 
 # Project Name
 
-Short project description or tagline
+Repository Design Pattern and IOC/DI
 
 ## Overview
 
