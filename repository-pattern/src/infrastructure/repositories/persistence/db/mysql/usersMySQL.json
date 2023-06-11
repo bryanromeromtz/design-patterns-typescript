@@ -1,0 +1,29 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ken Thompson",
+        "email": "ken@example.com",
+        "password": "123456"
+      },
+      {
+        "id": 2,
+        "name": "Linus Torvalds",
+        "email": "linus@example.com",
+        "password": "abcdef"
+      },
+      {
+        "id": 3,
+        "name": "Richard Stallman",
+        "email": "richard@example.com",
+        "password": "qwerty"
+      },
+      {
+        "id": 4,
+        "name": "Dennis Ritchie",
+        "email": "dennis@example.com",
+        "password": "password"
+      }
+    ]
+  }
+  
